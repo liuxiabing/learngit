@@ -2,4 +2,4 @@
 222222
 333333
 444444
-Git tracks changes
+Git tracks first changes.
